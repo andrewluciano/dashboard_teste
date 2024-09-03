@@ -1,0 +1,185 @@
+{
+  "dialog": {
+    "bloqueio": {
+      "titulo": "Você deseja bloquear este financiador?",
+      "texto": "Ao bloquear, é importante saber que este financiador não poderá te enviar convites de conexão enquanto permanecer bloqueado.",
+      "labelConfirme": "Bloquear",
+      "labelCancelar": "Cancelar"
+    },
+    "desbloquear": {
+      "titulo": "Você deseja desbloquear este financiador?",
+      "texto": "Ao desbloquear, este financiador poderá novamente enviar convites de conexão.",
+      "labelConfirme": "Desbloquear",
+      "labelCancelar": "Cancelar"
+    },
+    "recusarConvite": {
+      "titulo": "Você deseja recusar este convite?",
+      "texto": "Ao recusar, o financiador interessado não poderá encaminhar novos convites para você durante 7 dias.",
+      "labelConfirme": "Recusar",
+      "labelCancelar": "Cancelar",
+      "listaMotivo": true
+    },
+    "aceitarConvite": {
+      "titulo": "Que ótimo! Uma nova conexão será estabelecida.",
+      "texto": "Ao confirmar, iremos notificar o financiador interessado que passará a ter acesso aos seus dados cadastrais e documentos para que realize uma análise de crédito. Gerar novas conexões é sempre saudável para a sua empresa, portanto desejamos uma boa sorte e que realizem juntos excelentes negócios.",
+      "labelConfirme": "Aceitar",
+      "labelCancelar": "Cancelar"
+    },
+    "favorito": {
+      "titulo": "Você deseja favoritar este financiador!",
+      "texto": "Ao favoritar, este financiador poderá participar das ofertas criadas por você.",
+      "labelConfirme": "Favoritar",
+      "labelCancelar": "Cancelar"
+    },
+    "desfavoritar": {
+      "titulo": "Você deseja desfavoritar este financiador?",
+      "texto": "Ao desfavoritar, este financiador não participará das ofertas criadas por você!",
+      "labelConfirme": "OK",
+      "labelCancelar": "Cancelar"
+    },
+    "conectar": {
+      "titulo": "Você está prestes a iniciar uma nova conexão!",
+      "texto": "Ao confirmar, iremos notificar o financiador selecionado e disponibilizaremos à ele o acesso aos seus dados cadastrais e documentos para que realize uma análise de crédito.",
+      "labelConfirme": "Conectar",
+      "labelCancelar": "Cancelar"
+    },
+    "conectarPendencia": {
+      "titulo": "Atenção! Cadastro incompleto",
+      "texto": "Parece que seu perfil e/ou documentos obrigatórios estão incompletos. Complete seu cadastro para iniciar uma conexão!",
+      "labelConfirme": "Ir para Cadastro",
+      "labelCancelar": "Cancelar"
+    },
+    "finScanner": {
+      "titulo": "Chegou o FinScanner!",
+      "texto": "Já pensou em não ter mais que fazer o upload de notas fiscais toda vez que for criar uma operação? Pois é, pensando em você criamos um serviço que faz isso de forma automática. É só instalar e pronto!",
+      "labelConfirme": "FinScanner 32/64Bits",
+      "labelCancelar": "Tutorial pdf"
+    },
+    "exclusaoTitulos": {
+      "titulo": "Você confirma a exclusão do(s) título(s)?",
+      "texto": "",
+      "labelConfirme": "Confirmar",
+      "labelCancelar": "Cancelar"
+    },
+    "alteracaoTitulo": {
+      "titulo": "Você confirma a alteração do título abaixo?",
+      "texto": "",
+      "labelConfirme": "Confirmar",
+      "labelCancelar": "Cancelar"
+    },
+    "updateNotas": {
+      "titulo": "Você confirma a alteração do(s) título(s)?",
+      "texto": "",
+      "labelConfirme": "Confirmar",
+      "labelCancelar": "Cancelar"
+    },
+    "restaurarNotas": {
+      "titulo": "Você confirma a recuperação do(s) título(s)?",
+      "texto": "Os títulos serão movidos de volta para a pasta correspondente.",
+      "labelConfirme": "Confirmar",
+      "labelCancelar": "Cancelar"
+    },
+    "recuperarValores": {
+      "titulo": "Você confirma a restauração dos valores deste(s) título(s)?",
+      "texto": "O(s) valor(es) e data(s) de vencimento originais serão restaurados.",
+      "labelConfirme": "Confirmar",
+      "labelCancelar": "Cancelar"
+    },
+    "confirmarNota": {
+      "titulo": "Você confirma este(s) título(s)?",
+      "texto": "",
+      "labelConfirme": "Confirmar",
+      "labelCancelar": "Cancelar"
+    },
+    "tituloOperadoFora": {
+      "titulo": "Título operado fora da Finplace",
+      "texto": "Por favor, nos informe com qual financiador você operou esse título.",
+      "labelConfirme": "Confirmar",
+      "labelCancelar": "Cancelar"
+    },
+    "resetOperadoFora": {
+      "titulo": "Confirmar restauração título operado fora da Finplace",
+      "texto": "Confirma a restauração do título operado fora da Finplace? Com isso, ele retornará para a pasta correspondente (a vencer ou vencidos).",
+      "labelConfirme": "Confirmar",
+      "labelCancelar": "Cancelar"
+    },
+    "simulacaoTaxaZero": {
+      "titulo": "Simulação com taxa 0%",
+      "texto": "Nas suas últimas 5 operações: Sua taxa media é: 2.98%. Sua menor taxa foi: 0.00%. Caso não tenha nenhum histórico, pode deixá-la zerada mesmo!",
+      "labelConfirme": "Deseja simular memso assim",
+      "labelCancelar": "Modificar Taxa"
+    },
+    "validacaoCadastro": {
+      "titulo": "Atenção, Ação Pendente!",
+      "texto": "Para criar sua primeira oferta é necessário preencher os dados da sua conta corrente na página Cadastro e/ou selecionar ao menos um financiador como seu favorito na página Financiadores.",
+      "labelConfirme": "OK"
+    },
+    "parabensOfertaCriada": {
+      "titulo": "Parabéns",
+      "texto": "Agora, é só aguardar! As propostas virão até você! Siga para “Negociações” para acompanhar!",
+      "labelConfirme": "OK"
+    },
+    "infoTipoPapel": {
+      "titulo": "Tipos de papel",
+      "texto": "",
+      "labelConfirme": "OK"
+    },
+    "infoPmp": {
+      "titulo": "PMP (Prazo Médio Ponderado)",
+      "texto": "Tempo médio (em dias) para o recebimento das notas fiscais.",
+      "labelConfirme": "OK"
+    },
+    "infoAncora": {
+      "titulo": "Âncora",
+      "texto": "O termo âncora refere-se ao sacado de uma operação do tipo “Supply Chain Finance” que você faz parte. Ou seja, você fornecedor, sobe uma nota fiscal que pode ser confirmada pelo seu cliente e então descontada de forma mais fácil dentro da plataforma.",
+      "labelConfirme": "OK"
+    },
+    "validacaoAncoraConfirmados": {
+      "titulo": "Você selecionou títulos não confirmados pelo sacado âncora!",
+      "texto": "Criando uma oferta de um sacado âncora com títulos que ainda não foram confirmados pelo mesmo, pode ser que você não consiga boas taxas e negociações.Portanto, sugerimos que aguarde a confirmação destes títulos pelo sacado. Gostaria de continuar mesmo assim?",
+      "labelConfirme": "Continuar",
+      "labelCancelar": "Cancelar"
+    },
+    "cancelarAgendamentoPag": {
+      "titulo": "Você confirma o cancelamento?",
+      "texto": "Ao cancelar você perderá os dados deste pagamento",
+      "labelConfirme": "Sim",
+      "labelCancelar": "Não"
+    }
+  },
+  "upload": {
+    "xml": "Arraste seus arquivos .XML, .ZIP ou ",
+    "cnab": "Arraste seus arquivos CNAB, .TXT, .REM ou ",
+    "reject": "Arquivo não suportado",
+    "active": "Solte os arquivos aqui"
+  },
+  "tips": {
+    "antecipacao": {
+      "body": "Selecione as notas fiscais que deseja antecipar.",
+      "selecaoFavorito": "Escolha se deseja enviar sua oferta para todos os seus financiadores favoritos ou para apenas um.",
+      "selecaoContaBancaria": "Escolha a conta bancária onde deseja receber o valor a ser pago pela sua oferta."
+    },
+    "cnab": {
+      "emptyTitulos": "Não foi encontrado XML referente à este registro do CNAB. Você pode seguir com a criação da oferta desconsiderando este titulo, ou cancelar esta oferta, fazer o upload do XML correspondente e subir novamente este CNAB.",
+      "body": "Precisamos da sua atenção! Verifique se existem inconsistências e confirme os títulos identificados para criar sua oferta."
+    },
+    "emprestimo": {
+      "body": "Crie parcelas informando valores e datas de vencimento desejados.Depois, no simulador ao lado, informe a taxa pela qual gostaria de operar e crie sua oferta!"
+    },
+    "cheque": {
+      "body": "Informe o valor total e o prazo médio ponderado do(s) cheque(s)*. Depois, no simulador ao lado, informe a taxa pela qual gostaria de operar e crie sua oferta.",
+      "obs": "*Lembre-se que a oferta de cheque só pode ser direcionada para financiadores que já homologaram esse tipo de oferta com a Finplace. Entre em contato com o seu parceiro para identificar a possibilidade de envio deste tipo de operação."
+    },
+    "upload": {
+      "ofertaXml": "Faça o upload do arquivo XML para criar uma oferta.",
+      "ofertaCnab": "Faça o upload do arquivo CNAB para criar uma oferta."
+    },
+    "emptyPage": "Selecione uma modalidade no quadro de produtos ao lado, para iniciar a criação de uma oferta."
+  },
+  "topico": {
+    "antecipacao": "Faça o upload dos arquivos XML, selecione os títulos que deseja antecipar ou faça o upload de um arquivo CNAB, informe uma taxa no pela a qual gostaria de operar, simule e crie sua oferta.",
+    "bpi": "O processo para criação de uma oferta de boleto pré-impresso, segue o mesmo da antecipação de recebíveis descrita acima, porém ela só poderá ser direcionada para financiadores que já homologaram esse tipo de oferta com a Finplace. Entre em contato com o seu parceiro para identificar a possibilidade de envio deste tipo de operação.",
+    "emprestimo": "Crie parcelas informando valores e datas de vencimento desejados. Depois, no simulador ao lado, informe a taxa pela qual gostaria de operar e crie sua oferta!",
+    "cheque": "Informe o valor total e o prazo médio ponderado do(s) cheque(s). Depois, no simulador ao lado, informe a taxa pela qual gostaria de operar e crie sua oferta. Ela só poderá ser direcionada para financiadores que já homologaram esse tipo de oferta com a Finplace. Entre em contato com o seu parceiro para identificar a possibilidade de envio deste tipo de operação."
+  }
+}

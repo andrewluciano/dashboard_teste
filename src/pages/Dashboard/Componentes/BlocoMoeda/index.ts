@@ -1,0 +1,2 @@
+export  { BlocoMoedas } from "./BlocoMoedas";
+

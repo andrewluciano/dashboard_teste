@@ -1,0 +1,2 @@
+export  {BlocoNoticias} from "./BlocoNoticias";
+

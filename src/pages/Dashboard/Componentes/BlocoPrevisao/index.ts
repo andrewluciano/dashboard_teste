@@ -1,0 +1,2 @@
+export  { BlocoPrevisao } from "./BlocoPrevisao";
+
